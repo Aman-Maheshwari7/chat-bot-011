@@ -9,7 +9,7 @@ Heroku will automatically build the Docker image and your project's NLU model.
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-_It takes a couple of minutes to build and start the server. You can see the progress in Heroku logs._
+_It takes a couple of minutes to build and start the server. You can see the progress in Heroku logs.
 
 ## How to make requests
 
